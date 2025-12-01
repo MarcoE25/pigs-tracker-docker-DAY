@@ -1,0 +1,19 @@
+# --- Python trash ---
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.vscode/
+
+# --- outputs and results ---
+output/
+Resultados/
+gallery.npz
+
+# --- data (videos) ---
+# data is to heavy
+data/
+
+# --- Models ---
+#models/*.pt

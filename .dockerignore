@@ -1,0 +1,11 @@
+data/
+output/
+Resultados/
+__pycache__/
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+*.avi
+*.mp4
